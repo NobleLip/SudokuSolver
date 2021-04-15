@@ -13,7 +13,7 @@ To start the Program, first you must need to enter yourself the numbers of the s
 
 After that you just need to run the code and you will get all the steps that the program used to solve the sudoku.
 
-![Solving](img/Solving.PNG)
+![Solving](img/Slving.PNG)
 
 And the solved sudoku will be presented in a couple of seconds!
 ### To show that all the values match
